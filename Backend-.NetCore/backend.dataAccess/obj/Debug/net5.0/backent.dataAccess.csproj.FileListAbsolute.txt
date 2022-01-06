@@ -1,0 +1,5 @@
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backent.dataAccess/obj/Debug/net5.0/backent.dataAccess.csproj.AssemblyReference.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backent.dataAccess/obj/Debug/net5.0/backent.dataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backent.dataAccess/obj/Debug/net5.0/backent.dataAccess.AssemblyInfoInputs.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backent.dataAccess/obj/Debug/net5.0/backent.dataAccess.AssemblyInfo.cs
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backent.dataAccess/obj/Debug/net5.0/backent.dataAccess.csproj.CoreCompileInputs.cache

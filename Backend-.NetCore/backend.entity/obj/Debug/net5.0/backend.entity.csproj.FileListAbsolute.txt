@@ -1,0 +1,12 @@
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/bin/Debug/net5.0/backend.entity.deps.json
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/bin/Debug/net5.0/backend.entity.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/bin/Debug/net5.0/ref/backend.entity.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/bin/Debug/net5.0/backend.entity.pdb
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/backend.entity.csproj.AssemblyReference.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/backend.entity.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/backend.entity.AssemblyInfoInputs.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/backend.entity.AssemblyInfo.cs
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/backend.entity.csproj.CoreCompileInputs.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/backend.entity.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/ref/backend.entity.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/Debug/net5.0/backend.entity.pdb

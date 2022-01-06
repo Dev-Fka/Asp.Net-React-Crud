@@ -1,0 +1,17 @@
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/backend.service.deps.json
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/backend.service.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/ref/backend.service.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/backend.service.pdb
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/backend.dataAccess.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/backend.entity.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/backend.dataAccess.pdb
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/bin/Debug/net5.0/backend.entity.pdb
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.csproj.AssemblyReference.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.AssemblyInfoInputs.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.AssemblyInfo.cs
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.csproj.CoreCompileInputs.cache
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.csproj.CopyComplete
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/ref/backend.service.dll
+/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.service/obj/Debug/net5.0/backend.service.pdb

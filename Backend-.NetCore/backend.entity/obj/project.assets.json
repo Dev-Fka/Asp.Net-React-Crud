@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/home/dev-fka/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/backend.entity.csproj",
+      "projectName": "backend.entity",
+      "projectPath": "/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/backend.entity.csproj",
+      "packagesPath": "/home/dev-fka/.nuget/packages/",
+      "outputPath": "/home/dev-fka/Documents/Projects/webapi-react/Backend-.NetCore/backend.entity/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/dev-fka/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
